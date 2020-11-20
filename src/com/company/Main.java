@@ -10,7 +10,9 @@ public class Main {
     public static void main(String[] args) {
 
         MapTotal mapTotal = new MapTotal();
-        mapTotal.Method();
+        List list = new List();
+        /*mapTotal.Method();*/
+        list.Method();
 
     }
 }
